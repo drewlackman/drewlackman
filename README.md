@@ -1,30 +1,19 @@
 --------------------------------------------------
-          Banner
+          <p align="center">
+  <img src="assets/banner.png" alt="Drew Lackman Banner" width="100%" />
+</p>
 
-      Drew Lackman
+<h1 align="center">Drew Lackman</h1>
+
+<h3 align="center">
 AI Engineer • Computer Vision • LLMs
+</h3>
 
-Buttons
-
-About Me
-
-Tech Stack
-
-Featured Projects
-
-Current Focus
-
-GitHub Stats
-
-Pinned Repositories
-
-Connect With Me
+<p align="center">
+Building production-ready AI systems with Python, Computer Vision, and Generative AI.
+</p>
 --------------------------------------------------
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drewlackman/)
-[drew.lackman@gmail.com](https://img.shields.io/badge/Email-Drew%20Lackman-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drew.lackman@gmail.com)
+[drew.lackman@gmail.com](https://img.shields.io/badge/Email-Drew%20Lackman-red?style=for-the-badge&logo=gmail&logoColor=white)(mailto:drew.lackman@gmail.com)
 
-![MSAI](https://img.shields.io/badge/MS-Artificial%20Intelligence-blue?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Expertise-orange?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-Generative%20AI-purple?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
