@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-Building production-ready AI systems with Python, Computer Vision, and Generative AI.
+Using data, machine learning, and computer vision to improve scouting, player development, and roster construction.
 </p>
 
 
